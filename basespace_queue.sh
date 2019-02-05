@@ -14,5 +14,5 @@ bs get project --id ${FILE_NAME}
 bs workflow threshold export -i ${FILE_NAME}
 # Generate fastx files
 Bs download project -i <projectID> ${FILE_NAME} -o ${FILE_NAME}.download
-
+#comment for Hw2, almost there!
 
